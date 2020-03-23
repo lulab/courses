@@ -1,2 +1,3 @@
-# software
-Software page of Lu Lab
+---
+redirect_to: "https://www.ncrnalab.org/software"
+---
