@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://www.ncrnalab.org/software"
+redirect_to: "https://www.ncrnalab.org/courses"
 ---
