@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://app.yinxiang.com/fx/b88dc5d7-30a6-4366-af3a-1b70facdea91"
+redirect_to: "https://app.yinxiang.com/fx/b46306ff-4e70-456b-9185-e0afb3e55bd4"
 ---
