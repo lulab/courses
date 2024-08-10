@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://docs.qq.com/doc/DWWVDblBHWFJBSlVZ"
+redirect_to: "https://book.ncrnalab.org/teaching/courses/bioinfo1"
 ---
