@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://www.ncrnalab.org/labhome/courses/bioinfo1"
+redirect_to: "https://www.ncrnalab.org/courses/bioinfo1"
 ---
