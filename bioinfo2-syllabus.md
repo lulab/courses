@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://docs.qq.com/doc/DWXlXc29FclpaTmp2"
+redirect_to: "https://365.kdocs.cn/l/cuNerhTdXckY"
 ---
